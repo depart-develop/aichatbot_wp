@@ -11,6 +11,10 @@ Dockerコンテナが作成済の場合、再構築のためbuildコマンドが
 `docker compose start	`
 
 # URL
+**認証情報**  
+ID：aikitayama  
+PW：qTCMPUFiYYCBAT4wAk  
+
 **phpmyadomin**  
 http://localhost:3000/
 
